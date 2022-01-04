@@ -1,0 +1,1 @@
+<p>Copyright 2021 Kelompok 1 | 4A Teknik Informatika</p>
